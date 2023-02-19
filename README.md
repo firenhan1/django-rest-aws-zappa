@@ -13,8 +13,8 @@ Implement a simple Restful API on Django using the following tech stack: Python,
 
 ### 1. Clone repository:
 ```bash
->>> git clone 
->>> cd 
+>>> git clone https://github.com/firenhan1/django-rest-aws-zappa.git
+>>> cd django-rest-aws-zappa
 ```
 
 ### 2. install requerments.txt
